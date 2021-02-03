@@ -11,7 +11,7 @@ Classic Pong game in Python 3.6 using the turtle native graphics module.
 
 Downloading the repository:
 ```git
-git clone https://github.com/MathsS1/pypong.git
+git clone https://github.com/mellomaths/pypong.git
 ```
 
 Starting the project, in the folder `./pypong` execute the command below:
